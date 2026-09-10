@@ -1,0 +1,6 @@
+{
+  "name": "Stecutopup - Portal Top Up Game & Digital QRIS",
+  "description": "Platform top up game online terlengkap dengan integrasi QRIS instan, e-wallet, pelacakan transaksi, dan kalkulator gaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
